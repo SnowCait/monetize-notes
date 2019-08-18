@@ -2,6 +2,7 @@
 
 ## Amazon アソシエイト
 - [ポータル](https://affiliate.amazon.co.jp/home)
+- [Signed Requests Helper](http://associates-amazon.s3.amazonaws.com/signed-requests/helper/index.html)
 
 ## Rate Limit
 - [[重要] Product Advertising API 利用ポリシーの変更について](https://affiliate.amazon.co.jp/help/topic/t52/)
